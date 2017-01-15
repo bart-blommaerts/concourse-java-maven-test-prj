@@ -18,7 +18,7 @@ The following requirements the pipeline must address:
 
 ```
 # build java project
-maven package
+mvn package
 
 # prepare vagrant box
 vagrant up
